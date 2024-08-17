@@ -1,5 +1,5 @@
 # Tour Project
-Bu uygulama bir tur projesidir
+Bu uygulama bir tur projesidir. ReactJs ile Yazılmıştır
 
 ## Hakkında
 
